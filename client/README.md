@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
-npm install
+cd server
+npm instal
+cd ..
+cd client
+npm run serve
 ```
 
 ### Compiles and hot-reloads for development
